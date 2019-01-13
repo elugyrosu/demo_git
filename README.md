@@ -3,4 +3,4 @@
 
 2 On modifie depuis gitHub
 
-3 mais aussi depuis ma machine
+3 mais aussi depuis ma machine locale est c'est cool
